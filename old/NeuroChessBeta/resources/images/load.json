@@ -1,0 +1,31 @@
+{
+    "icon": "resources/images/icon.png;false",
+    "background": "resources/images/background.png;false",
+    "arrow0": "resources/images/element/arrow0.png;true",
+    "arrow1": "resources/images/element/arrow1.png;true",
+    "emptyBase": "resources/images/element/emptyBase.png;true",
+    "shadow": "resources/images/element/shadow.png;true",
+    "player1": "resources/images/pieces/White/kingFront.png;true",
+    "player2": "resources/images/pieces/Blue/kingFront.png;true",
+
+    "P": "resources/images/pieces/White/pawnBack.png;true",
+    "R": "resources/images/pieces/White/rookBack.png;true",
+    "N": "resources/images/pieces/White/knightBack.png;true",
+    "B": "resources/images/pieces/White/bishopBack.png;true",
+    "K": "resources/images/pieces/White/kingBack.png;true", 
+    "Q": "resources/images/pieces/White/queenBack.png;true",
+    
+    "p": "resources/images/pieces/Blue/pawnFront.png;true",
+    "r": "resources/images/pieces/Blue/rookFront.png;true",
+    "n": "resources/images/pieces/Blue/knightFront.png;true",
+    "b": "resources/images/pieces/Blue/bishopFront.png;true",
+    "k": "resources/images/pieces/Blue/kingFront.png;true",
+    "q": "resources/images/pieces/Blue/queenFront.png;true",
+
+    "RP": "resources/images/pieces/Red/pawnFront.png;true",
+    "RR": "resources/images/pieces/Red/rookFront.png;true",
+    "RN": "resources/images/pieces/Red/knightFront.png;true",
+    "RB": "resources/images/pieces/Red/bishopFront.png;true",
+    "RK": "resources/images/pieces/Red/kingFront.png;true", 
+    "RQ": "resources/images/pieces/Red/queenFront.png;true"
+}
