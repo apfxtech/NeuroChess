@@ -498,7 +498,7 @@ class Game:
                 'y': 3, 'labels': ['', 'Human', '', '', '', '', 'Martin', ''],
                 'is_player': True
             },{
-                'y': 6, 'labels': ['', '', 'Neuro\n1800mb', '', '', 'Cyber\n250mb', '', ''],
+                'y': 6, 'labels': ['', '', 'Neuro', '', '', 'Cyber', '', ''],
                 'is_player': True
         }]
 
